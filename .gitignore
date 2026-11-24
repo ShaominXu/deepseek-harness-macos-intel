@@ -1,0 +1,10 @@
+# Build environment (reproduced by build-intel.sh)
+src/
+.caches/
+toolchain/
+*.log
+
+# The DMG is published as a GitHub Release asset (100 MB git file limit)
+dist/*.dmg
+
+.DS_Store
