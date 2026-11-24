@@ -8,6 +8,13 @@
 
 所以不需要“另写”一个壳：直接把官方源码按 mac-x64 目标编译即可。本目录就是在这台 Intel Mac（macOS 14.7.4，x86_64）上实际构建、打包并启动验证过的结果。
 
+## 下载
+
+发布在 GitHub Release（仓库：[ShaominXu/deepseek-harness-macos-intel](https://github.com/ShaominXu/deepseek-harness-macos-intel)）：
+
+- [v0.2.3-alpha.2-intel.1](https://github.com/ShaominXu/deepseek-harness-macos-intel/releases/tag/v0.2.3-alpha.2-intel.1) — DMG + SHA256SUMS
+- 直链：[deepseek-harness-0.2.3-alpha.2-mac-x64-unsigned.dmg](https://github.com/ShaominXu/deepseek-harness-macos-intel/releases/download/v0.2.3-alpha.2-intel.1/deepseek-harness-0.2.3-alpha.2-mac-x64-unsigned.dmg)
+
 ## 交付物
 
 | 文件 | 说明 |
